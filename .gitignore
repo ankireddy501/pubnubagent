@@ -1,0 +1,8 @@
+bin
+.idea
+.idea\libraries
+target
+.classpath
+.project
+pubnub.iml
+rest-invocation-support.iml
