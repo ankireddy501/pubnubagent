@@ -2,7 +2,6 @@ package com.parking.agent.subscriber;
 
 import com.pubnub.api.Callback;
 import com.pubnub.api.PubnubException;
-import org.json.JSONArray;
 
 /**
  * Created by VST on 06-07-2016.
